@@ -1,6 +1,8 @@
 # CBIR_System_using_SIFT
 Content-based Image Retireval System using SIFT. An image retrieval system that applies SIFT and K-mean clustering for feature extraction. Different visual word representations are tested. The system is built based on MalayaKew Dataset.
 
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+
 ## Introduction
 In this project, we had built an image retrieval system that retrieves a set number of
 image of leaves, given an image as query. This image retrieval system is built on the
