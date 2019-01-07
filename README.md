@@ -69,5 +69,5 @@ than baseline method across all classes.
 
 More details [here](https://github.com/xKHUNx/CBIR_System_using_SIFT/blob/master/VIP%20Assignment%202%20Report.pdf).
 
-## Implement
-To implement the code yourself, download the files, and obtain the dataset [here](https://drive.google.com/open?id=1wg_9attQLYeCutDFvpbL0ZFBsqx-fXuO). Or you can visit the official [MalayaKew](http://web.fsktm.um.edu.my/~cschan/downloads_MKLeaf_dataset.html) website to get the original dataset.
+## Implement yourself!
+To implement the code yourself, download the files, and obtain the plantdb dataset [here](https://drive.google.com/open?id=1wg_9attQLYeCutDFvpbL0ZFBsqx-fXuO). Or you can visit the official [MalayaKew](http://web.fsktm.um.edu.my/~cschan/downloads_MKLeaf_dataset.html) website to get the original dataset.
