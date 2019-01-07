@@ -67,4 +67,7 @@ rate@50 of BoW and TF-IDF is the same value which is 0.6200 and it is higher tha
 baseline method. The full evaluation shows that BoW and TF-IDF has a better performance
 than baseline method across all classes.
 
-More details [here](https://github.com/xKHUNx/CBIR_System_using_SIFT/blob/master/VIP%20Assignment%202%20Report.pdf)
+More details [here](https://github.com/xKHUNx/CBIR_System_using_SIFT/blob/master/VIP%20Assignment%202%20Report.pdf).
+
+## Implement
+To implement the code yourself, download the files, and obtain the dataset [here](https://drive.google.com/open?id=1wg_9attQLYeCutDFvpbL0ZFBsqx-fXuO). Or you can visit the official [MalayaKew](http://web.fsktm.um.edu.my/~cschan/downloads_MKLeaf_dataset.html) website to get the original dataset.
